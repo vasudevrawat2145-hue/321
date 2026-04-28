@@ -9,4 +9,4 @@ print("hello, world!)
 ```
 
 # My First Project
-This is my first project on github.
+This is my very first project on github.
